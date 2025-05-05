@@ -1,4 +1,0 @@
-repository "RpgLearning@tj_treeple39@cloud.cn"
-  path "/"
-    br "/main"
-    co "/main"
